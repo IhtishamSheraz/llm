@@ -1,0 +1,5 @@
+streamlit
+presidio-analyzer
+presidio-anonymizer
+rapidfuzz
+requests
